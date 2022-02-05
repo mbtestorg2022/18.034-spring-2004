@@ -53,9 +53,54 @@ Missing an exam is allowed only with a valid medical excuse or for other Institu
 Grading
 -------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| 10 Problem Sets | 500 (50 points each) |
-| 3 In-class Exams (50 minutes each) | 300 (100 points each) |
-| Final Exam (3 hour) | 200 |
-| Total | 1000
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+500 (50 points each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 In-class Exams (50 minutes each)
+{{< tdclose >}}
+{{< tdopen >}}
+300 (100 points each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam (3 hour)
+{{< tdclose >}}
+{{< tdopen >}}
+200
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+1000
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
