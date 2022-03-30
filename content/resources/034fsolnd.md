@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 83cea548-8968-c5cc-9217-7c2459b121ac
 resourcetype: Image
 title: 034fsolnd.jpg
 uid: 90a664f8-7d02-e76d-f5d5-ec05c534e272

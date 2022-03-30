@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 83cea548-8968-c5cc-9217-7c2459b121ac
 resourcetype: Image
 title: 034exam1b.jpg
 uid: 4797a6d2-89e9-dd10-f803-ebbdede4082c
